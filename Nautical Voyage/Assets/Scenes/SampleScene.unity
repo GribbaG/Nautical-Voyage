@@ -207,6 +207,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!1 &619683959
 GameObject:
   m_ObjectHideFlags: 0
@@ -283,6 +284,8 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> parent of cd2158a (Movement and jump)
 --- !u!1 &1172348646
 GameObject:
   m_ObjectHideFlags: 0
@@ -365,10 +368,14 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
+<<<<<<< HEAD
   m_Children:
 <<<<<<< HEAD
   - {fileID: 619683960}
   - {fileID: 1918519721}
+=======
+  m_Children: []
+>>>>>>> parent of cd2158a (Movement and jump)
 =======
   m_Children: []
 >>>>>>> parent of cd2158a (Movement and jump)
@@ -422,6 +429,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+<<<<<<< HEAD
 --- !u!114 &1172348651
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -451,6 +459,8 @@ MonoBehaviour:
   firePoint: {fileID: 1374735606}
   harpoonPrefab: {fileID: 9030200083891245275, guid: 4d64342c7d910e646ba04a58857301f0, type: 3}
 >>>>>>> b65232e9470d453bcf88369dca031fe14c3191cd
+=======
+>>>>>>> parent of cd2158a (Movement and jump)
 --- !u!1 &1241911669
 GameObject:
   m_ObjectHideFlags: 0
@@ -563,6 +573,7 @@ Transform:
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1918519720
 GameObject:
   m_ObjectHideFlags: 0
@@ -594,5 +605,7 @@ Transform:
   m_Father: {fileID: 1172348648}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> parent of cd2158a (Movement and jump)
 =======
 >>>>>>> parent of cd2158a (Movement and jump)
