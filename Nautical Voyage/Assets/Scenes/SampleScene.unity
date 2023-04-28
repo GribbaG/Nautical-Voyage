@@ -374,8 +374,8 @@ Transform:
   - {fileID: 619683960}
   - {fileID: 1918519721}
 =======
-  - {fileID: 1374735606}
->>>>>>> main
+  m_Children: []
+>>>>>>> parent of cd2158a (Movement and jump)
 =======
   m_Children: []
 >>>>>>> parent of cd2158a (Movement and jump)
@@ -575,9 +575,6 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1 &1918519720
-=======
---- !u!1 &1374735605
->>>>>>> main
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -585,48 +582,30 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< HEAD
   - component: {fileID: 1918519721}
   m_Layer: 0
   m_Name: Right Leg
-=======
-  - component: {fileID: 1374735606}
-  m_Layer: 0
-  m_Name: FirePoint
->>>>>>> main
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
-<<<<<<< HEAD
 --- !u!4 &1918519721
-=======
---- !u!4 &1374735606
->>>>>>> main
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 1918519720}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0.3, y: -0.41, z: 0}
-=======
-  m_GameObject: {fileID: 1374735605}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.508, y: -0.103, z: 0}
->>>>>>> main
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1172348648}
-<<<<<<< HEAD
   m_RootOrder: 1
-=======
-  m_RootOrder: 0
->>>>>>> main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> parent of cd2158a (Movement and jump)
 =======
 >>>>>>> parent of cd2158a (Movement and jump)
